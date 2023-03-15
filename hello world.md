@@ -1,10 +1,13 @@
 Hello world
+
 Managed to do?
+
 Begin our meet to version control
+
 *Cursive*
-``zacherknut``
+
+``выделение``
+
 ~~zacherknut~~
+
 Первый файл по контролю версий
-
-
-dxghk
